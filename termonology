@@ -2,6 +2,8 @@
 
 // concrete class
 
+//concrete factory
+
 // base class
 
 // parent class
@@ -12,16 +14,24 @@
 
 // abstract class
 
+// interface
+ths is essentially a contract which a class should adhear too.
+
 // method injection
 
 //  compesision
 
 // is a
+Refers to a class that is  extending its parent class using inheritance
 
 // has a
+Refers to a class that is using compesition.  A class that implements an interface or an abstract class
 
 // polymorphism
 
 // abstraction
 
 // interface
+
+
+// interface vs abstract class
