@@ -13,21 +13,27 @@
 // inheritance
 
 // abstract class
+a class can be extended but not instanciated.  class must contain at least one abstract method.  This class contains a partial implementation of a class.
+can contain methods with code.
 
 // interface
-ths is essentially a contract which a class should adhear too.
+ths is essentially a class that defines a blue print for any classes that implement the interface,  rather using class, it uses interface.   Interface must contain at least one
+method which does not contain code.
 
 // method injection
 
 //  compesision
 
+
 // is a
 Refers to a class that is  extending its parent class using inheritance
 
 // has a
-Refers to a class that is using compesition.  A class that implements an interface or an abstract class
+Refers to a class that is using compesition.  A class that implements an interface.
 
 // polymorphism
+The ability to have many forms of the same type.  fr example when using interfaces, multiple classes can implement the same interface, therefor 
+morphing the class to the same type
 
 // abstraction
 
